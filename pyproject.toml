@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "dictionarysnek"
-version = "0.1.2"
-description = "An Dictionary API Wrapper for Python"
+version = "0.0.1"
+description = "A Dictionary API Wrapper for Python"
 authors = ["Nessundorma <vismdbs@gmail.com>"]
 classifiers = ["Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
