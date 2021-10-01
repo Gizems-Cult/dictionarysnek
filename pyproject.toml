@@ -1,8 +1,12 @@
 [tool.poetry]
 name = "dictionarysnek"
-version = "0.1.1"
+version = "0.1.2"
 description = "An Dictionary API Wrapper for Python"
 authors = ["Nessundorma <vismdbs@gmail.com>"]
+classifiers = ["Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"]
+repository = "https://github.com/Gizems-Cult/dictionarysnek"
 
 [tool.poetry.dependencies]
 python = "^3.8"
